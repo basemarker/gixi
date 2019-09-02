@@ -24,8 +24,10 @@
     "presets": [
       "es2015"
     ],
-    "plugins": [
-    
-    ]
+    "plugins": []
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "jssha": "^2.3.1"
   }
 }
